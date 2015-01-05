@@ -117,12 +117,14 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:022043_0000_0FB6A684706298C0"/>
-            <pb facs="tcp:022043_0001_0FB6A688541D5290" rendition="simple:additions"/>
+            <pb facs="unknown:022043_0000_0FB6A684706298C0"/>
+            <pb facs="unknown:022043_0001_0FB6A688541D5290"
+                rendition="simple:additions"/>
             <p>FARCE.</p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:022043_0002_0FB6A6891E826CC0" rendition="simple:additions"/>
+            <pb facs="unknown:022043_0002_0FB6A6891E826CC0"
+                rendition="simple:additions"/>
             <p>Occurrences of the Times. OR, THE TRANSACTIONS OF FOUR DAYS. [Viz.—From FRIDAY the 16th, to MONDAY the 19th <hi>January,</hi> 1789.</p>
             <p>A FARCE. IN TWO ACTS.</p>
             <q>
@@ -136,7 +138,7 @@
             <p>PRINTED for the PURCHASERS.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:022043_0003_0FB6A68F2AE16EA8"/>
+            <pb facs="unknown:022043_0003_0FB6A68F2AE16EA8"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -167,7 +169,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:022043_0004_0FB6A690E5CA7BF8"/>
+            <pb facs="unknown:022043_0004_0FB6A690E5CA7BF8"/>
             <head>A FARCE.</head>
             <div n="1" type="act">
                <head>ACT I.</head>
@@ -207,7 +209,7 @@
                   </sp>
                </div>
                <div n="2" type="scene">
-                  <pb n="6" facs="tcp:022043_0005_0FB6A6969DA032B0"/>
+                  <pb n="6" facs="unknown:022043_0005_0FB6A6969DA032B0"/>
                   <head>SCENE II.</head>
                   <stage>A Room in Dr. <hi>Harrangue</hi>'s Houſe.</stage>
                   <stage>Enter <hi>Quaker.</hi>
@@ -246,7 +248,7 @@
                      <hi>A</hi> Scene <hi>in</hi> Sidney's <hi>houſe, at a kitchen fire.</hi> Tipſy <hi>drunk.</hi>
                   </stage>
                   <stage>
-                     <pb n="7" facs="tcp:022043_0006_0FB6A698F3456978"/>
+                     <pb n="7" facs="unknown:022043_0006_0FB6A698F3456978"/>
                      <hi>Enter</hi> Martha.</stage>
                   <sp>
                      <speaker>Mar.</speaker>
@@ -300,7 +302,7 @@
                      <p>Do you tink it will.</p>
                   </sp>
                   <sp>
-                     <pb n="8" facs="tcp:022043_0007_0FB6A69A79DA70A8"/>
+                     <pb n="8" facs="unknown:022043_0007_0FB6A69A79DA70A8"/>
                      <speaker>Mar.</speaker>
                      <p>Yes: and you black ſon of ſatan, will be ſent neck and heels to the loweſt pit of miſe<g ref="char:EOLhyphen"/>ry; and your maſter too, for his deceit and du<g ref="char:EOLhyphen"/>plicity. He with his intriges has made me commit more ſin than I can ever anſwer for— and if he is the guilty man, I hope he will be brought out.</p>
                   </sp>
@@ -353,7 +355,7 @@
                      <p>Come <hi>Martha,</hi> do you try.</p>
                   </sp>
                   <sp>
-                     <pb n="9" facs="tcp:022043_0008_0FB6A69BDD641028"/>
+                     <pb n="9" facs="unknown:022043_0008_0FB6A69BDD641028"/>
                      <speaker>Mar.</speaker>
                      <l>
                         <hi>"Where is the father fled, with rap<g ref="char:EOLhyphen"/>tur'd breaſt;</hi>
@@ -421,7 +423,7 @@
                   <sp>
                      <speaker>Deb.</speaker>
                      <p>O, Lord—O, Lord—ſhuch work—poor maſſer I pity him—He is ſwaring and taring, and ſays dam you madam to my miſſe, you are calm—and dare is, he ſays, a <hi>Nobel</hi> coming out nes week, cal'd the <hi>Trumpets of Nature,</hi> and
-<pb n="10" facs="tcp:022043_0009_0FB6A6A845337390"/>
+<pb n="10" facs="unknown:022043_0009_0FB6A6A845337390"/>
 he be dam'd if he don't blow ebery body's brains out.</p>
                   </sp>
                   <sp>
@@ -476,7 +478,7 @@ he be dam'd if he don't blow ebery body's brains out.</p>
                      <p>So I hear. <hi>Debauchee</hi> informed me there was warm work at home, and that <hi>Sidney</hi> wanted to ſee me.</p>
                   </sp>
                   <sp>
-                     <pb n="11" facs="tcp:022043_0010_0FB6A6A972D10880"/>
+                     <pb n="11" facs="unknown:022043_0010_0FB6A6A972D10880"/>
                      <speaker>Dupe.</speaker>
                      <p>Yes, there is work enough cut out for him, and with all his faults I pity him—He muſt be more than man to ſuſtain ſuch a compli<g ref="char:EOLhyphen"/>cated load of misfortunes.</p>
                   </sp>
@@ -503,7 +505,7 @@ he be dam'd if he don't blow ebery body's brains out.</p>
                      <hi>A Room in</hi> Peep's <hi>houſe</hi>—Peep <hi>diſcovered read<g ref="char:EOLhyphen"/>ing a Letter.</hi>
                   </stage>
                   <p>—This will do, by Heavens; this is glori<g ref="char:EOLhyphen"/>ous news; a royal ſubject for defamation; What a capital opportunity I ſhall have to gratify the idly curious—to ſpread diſſention and diſcord— draw a tear from the eye of ſenſibility—or raiſe a bluſh of indignation on the cheek of candour; For tho my friend enjoined the ſtricteſt ſecrecy, and has informed me if the affair ſhould tranſpire, an amiable family would be involved in irre<g ref="char:EOLhyphen"/>trievable miſery and diſgrace, yet I can never
-<pb n="12" facs="tcp:022043_0011_0FB6A6ACD80A5BA0"/>
+<pb n="12" facs="unknown:022043_0011_0FB6A6ACD80A5BA0"/>
 conquer my propenſity to ſcandal ſo far, as to conceal it intirely, I can throw out a few in<g ref="char:EOLhyphen"/>ſinuations—give a ſignificant ſhrug or two, and the infection will fly like wild fire; I am im<g ref="char:EOLhyphen"/>patient to get out.</p>
                   <stage>[<hi>As he goes out, he meets</hi> Debauchee.]</stage>
                   <sp>
@@ -538,7 +540,7 @@ conquer my propenſity to ſcandal ſo far, as to conceal it intirely, I can thr
                   <sp>
                      <speaker>Deb.</speaker>
                      <p>No, Sir, you don't ſtand me, miſſer <hi>Harcoat</hi> and my maſſer fite; I went to ſtand by him, long maſſer <hi>Dupe</hi>; I ſhoud fite if maſſer wod begin; but maſſer wont do noting; ſo miſſer <hi>Harcoat</hi> went away; but dat an't all, maſſer want to ſee you, for Mr. <hi>Tedy</hi> and <hi>Fum</hi> has got a book, and dey going to publick it—
-<pb n="13" facs="tcp:022043_0012_0FB6A6AE11BC92B8"/>
+<pb n="13" facs="unknown:022043_0012_0FB6A6AE11BC92B8"/>
 and maſſer want you to help preſs it—I tink he ſay.</p>
                   </sp>
                   <sp>
@@ -563,7 +565,7 @@ and maſſer want you to help preſs it—I tink he ſay.</p>
                   <sp>
                      <speaker>Imp.</speaker>
                      <p>Well, Sir, I am willing to give you all
-<pb n="14" facs="tcp:022043_0013_0FB6A6AF67C5FDD8"/>
+<pb n="14" facs="unknown:022043_0013_0FB6A6AF67C5FDD8"/>
 the aſſiſtance in my power; though I don't ſee any probability of ſuppreſſing the publication. Is there any perſon in particular that you ſuſpect for the author?</p>
                   </sp>
                   <sp>
@@ -603,7 +605,7 @@ the aſſiſtance in my power; though I don't ſee any probability of ſuppreſ�
                      </p>
                   </sp>
                   <sp>
-                     <pb n="15" facs="tcp:022043_0014_0FB6A6BAF8901270"/>
+                     <pb n="15" facs="unknown:022043_0014_0FB6A6BAF8901270"/>
                      <speaker>Wor.</speaker>
                      <p>I ſhall ever eſteem myſelf happy in having it in my power to prevent the effuſion of human blood; and I think <hi>Sidney</hi>'s family and connections muſt be ſo completely miſerable, that it would be the utmoſt ſtretch of inhumanity to augment it.</p>
                   </sp>
@@ -636,7 +638,7 @@ the aſſiſtance in my power; though I don't ſee any probability of ſuppreſ�
                      <speaker>Debau.</speaker>
                      <p>
                         <hi>Tipſy—Tipſy</hi>—where be you—pray give me ſom ting to eat, for I'm moſt tarv'd—
-<pb n="16" facs="tcp:022043_0015_0FB6A6BC8CC75108"/>
+<pb n="16" facs="unknown:022043_0015_0FB6A6BC8CC75108"/>
 run about al day—cal miſſer <hi>Poſtiv</hi>—cal miſſer <hi>Peep</hi>—cal dis one—cal todder one—I hope if maſſer go for to ciſnate de printer to night, he wont call me, for I moſt dead now.</p>
                   </sp>
                   <sp>
@@ -662,7 +664,7 @@ run about al day—cal miſſer <hi>Poſtiv</hi>—cal miſſer <hi>Peep</hi>—
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="17" facs="tcp:022043_0016_0FB6A6C00E02B738"/>
+                  <pb n="17" facs="unknown:022043_0016_0FB6A6C00E02B738"/>
                   <head>SCENE IV.</head>
                   <stage>Turncoat's <hi>houſe. Mrs.</hi> Turncoat <hi>diſcovered heading her breakfaſt table.</hi>
                   </stage>
@@ -696,7 +698,7 @@ run about al day—cal miſſer <hi>Poſtiv</hi>—cal miſſer <hi>Peep</hi>—
                      <p>Bleſs me, then they have fought a duel; well, that's good; I hope he had his head ſhot off.</p>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:022043_0017_0FB6A6C15F394940"/>
+                     <pb n="18" facs="unknown:022043_0017_0FB6A6C15F394940"/>
                      <speaker>Turn.</speaker>
                      <p>Not ſo quick, my dear, <hi>Sidney</hi> was too artful for him; he planned matters ſo well, that <hi>Worthy</hi> interpoſed his authority and parted them. I am glad I was not in the way. I ſhould like to know which party gains the moſt applauſe; and to tell you the truth, I am ſorry I aſſiſted him in <hi>any</hi> of his manoeuvres.</p>
                   </sp>
@@ -727,7 +729,7 @@ run about al day—cal miſſer <hi>Poſtiv</hi>—cal miſſer <hi>Peep</hi>—
                      <speaker>Mrs. <hi>Sidney.</hi>
                      </speaker>
                      <p>Yes, he has been in, and I
-<pb n="19" facs="tcp:022043_0018_0FB6A6CA5B399EA8"/>
+<pb n="19" facs="unknown:022043_0018_0FB6A6CA5B399EA8"/>
 find the affair has ended better than I expected; but now he is in a violent paſſion about a Novel, that <hi>Steady</hi> and <hi>Firm</hi> have printed, and he is ſaid to be the principal character in the Drama—he ſays he will ſuppreſs the publication if poſſible; for my own part, I am leſs ſolicitous about that, than I was about the duel: To have had my bro<g ref="char:EOLhyphen"/>ther, or my huſband fallen by the ſword of the other would have been inſupportable.</p>
                   </sp>
                   <sp>
@@ -761,7 +763,7 @@ find the affair has ended better than I expected; but now he is in a violent pa�
                      <speaker>Mrs. <hi>Sid.</hi>
                      </speaker>
                      <p>You had better let it alone, I
-<pb n="20" facs="tcp:022043_0019_0FB6A6CBF007E600"/>
+<pb n="20" facs="unknown:022043_0019_0FB6A6CBF007E600"/>
 think, you will only render yourſelf more con<g ref="char:EOLhyphen"/>ſpicuouſly infamous.</p>
                   </sp>
                   <sp>
@@ -802,7 +804,7 @@ think, you will only render yourſelf more con<g ref="char:EOLhyphen"/>ſpicuou�
                      <p>You could not doubt my readineſs to go, Sir; and I will bring them to terms, or loſe my arm in the attempt.</p>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:022043_0020_0FB6A6D239355ED8"/>
+                     <pb n="21" facs="unknown:022043_0020_0FB6A6D239355ED8"/>
                      <speaker>Sid.</speaker>
                      <p>Take <hi>Dupe</hi> with you, my friend, you will find him very ſerviceable.</p>
                   </sp>
@@ -850,7 +852,7 @@ think, you will only render yourſelf more con<g ref="char:EOLhyphen"/>ſpicuou�
                         </gap> are unqueſtionably <gap reason="illegible: indecipherable" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap>
-                        <pb n="22" facs="tcp:022043_0021_0FB6A6D363160E40"/>
+                        <pb n="22" facs="unknown:022043_0021_0FB6A6D363160E40"/>
 purpoſes for which we are honoured with the ſuffrages of our grateful countrymen.</p>
                   </sp>
                   <sp>
@@ -890,7 +892,7 @@ purpoſes for which we are honoured with the ſuffrages of our grateful countrym
                   </sp>
                   <stage>Exit Servant.</stage>
                   <stage>
-                     <pb n="23" facs="tcp:022043_0022_0FB6A6D4FB1B60D0"/>[<hi>Enter</hi> Tipſy <hi>with the child.</hi>]</stage>
+                     <pb n="23" facs="unknown:022043_0022_0FB6A6D4FB1B60D0"/>[<hi>Enter</hi> Tipſy <hi>with the child.</hi>]</stage>
                   <sp>
                      <speaker>Quak.</speaker>
                      <p>Give it to me <hi>Tipſy</hi>—Come here you pretty creature—Why its a fine child as ever I ſaw, and very handſome too.</p>
